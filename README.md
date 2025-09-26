@@ -1,4 +1,4 @@
-# ➗ Simple JavaScript Calculator
+# + Simple JavaScript Calculator
 
 A beginner-friendly **JavaScript project** that asks the user for two numbers and displays their **difference** in the console.  
 Built with **HTML and Vanilla JavaScript** 🚀  
@@ -10,10 +10,6 @@ Built with **HTML and Vanilla JavaScript** 🚀
 
 ---
 
-## 📸 Preview  
-![App Screenshot](screenshot.png)  
-
----
 
 ## ✨ Features  
 - 🔢 Takes two numbers as input using `prompt()`  
